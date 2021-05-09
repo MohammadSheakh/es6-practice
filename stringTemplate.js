@@ -8,5 +8,5 @@ const multiline =  `Python is the best
 programing language !
 We love python comunity most !
 es6 is the update version of JS .
-.`
+.`;
 console.log(multiline);
